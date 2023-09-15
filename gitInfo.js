@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = "Git is the process that's developer using for record something changes to files over the time."
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = "GitHub is the process that allow us to upload something store in cloud (github.com)."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+let gitInitDefinition = "We try to create empty git repository in local machine."
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition = "We try to clone something from github repository into local machine, so we can to do something."
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,7 +46,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition = "Allow us to see something that we are working, What are you changing? What are the files that you was modified."
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,6 +57,8 @@
 */
 
 //CODE HERE
+let gitAddDefinition = "Allow us added something from local machine before commit or push to github."
+let gitAddCode = "git add ."
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,7 +70,8 @@
 */
 
 //CODE HERE
-
+let gitCommitDefinition = "Try to commit something that we added or modified into local machine before push to github."
+let gitCommitCode = "git commit -m 'initial commit'"
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +80,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = "We try to push something after we added or modified into github. "
