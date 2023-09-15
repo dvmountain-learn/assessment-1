@@ -22,10 +22,10 @@ const planning = "This is the first step, in which the end goal of the software 
 
 const analysisAndRequirement = "This is the second step, the management teams  need to collection all of requirements from stakeholders. After we get requirement enough so we can start analysis. What is the languages, frameworks, and server that we want to using in the project."
 
-const design = "This is the third step, "
+const design = "This is the third step, The architectures using method Flowchart, Draw Diagram, Pseudocode, and so on. of system work and the designs try to design UX/UI adapt to user experience"
 
-const implementation = ""
+const implementation = "This is the four step, the developers try to implement (coding) follow that system was designed (translate everything into real solution)."
 
-const testingAndIntegration = ""
+const testingAndIntegration = "This is the five step, We have many way in this process, sometimes, we need to use QA to testing the flow of the system or the developers involve create a test case in Unit-Test. Otherwise we can using automatically testing CI/CD. To make sure our implementation match everything with requirement."
 
-const maintain = ""
+const maintain = "This is the final step, We need to maintain system depending on fixing an error or add new features for the next version."
