@@ -80,4 +80,4 @@ let gitCommitCode = "git commit -m 'initial commit'"
 */
 
 //CODE HERE
-let gitPushDefinition = "We try to push something after we added or modified into github. "
+let gitPushDefinition = "We try to push something after we added or modified between local machine into cloud github. "
