@@ -22,7 +22,7 @@ const planning = "This is the first step, in which the end goal of the software 
 
 const analysisAndRequirement = "This is the second step, the management teams  need to collection all of requirements from stakeholders. After we get requirement enough so we can start analysis. What is the languages, frameworks, and server that we want to using in the project."
 
-const design = "This is the third step, The architectures using method Flowchart, Draw Diagram, Pseudocode, and so on. of system work and the designs try to design UX/UI adapt to user experience"
+const design = "This is the third step, The architectures using methodology such as Flowchart, Draw Diagram, Pseudocode, and so on to describe the process of system work and the designs try to design UX/UI adapt to user experience (design guideline)."
 
 const implementation = "This is the four step, the developers try to implement (coding) follow that system was designed (translate everything into real solution)."
 
