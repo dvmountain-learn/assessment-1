@@ -11,7 +11,13 @@ let colorCopy = faveColors.slice(0)
 
 //CODE HERE
 colorCopy.push('pink')
+colorCopy.push('gray')
+colorCopy.push('blue')
+colorCopy.push('yellow')
 // console.log(colorCopy)
+// colorCopy.forEach((color) => {
+//   console.log(color)
+// })
 
 //////////////////PROBLEM 3////////////////////
 /*
